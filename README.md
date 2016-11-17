@@ -1,2 +1,2 @@
-# console-http-listener
-Simple one-shot localhost listener for OAuth callback handling  
+# console-tcp-listener
+Simple one-shot TCP listener for OAuth callback handling  
