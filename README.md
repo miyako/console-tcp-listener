@@ -1,7 +1,7 @@
 # console-tcp-listener
 Simple one-shot TCP listener for OAuth callback handling  
 
-###Usage
+### Usage
 
 Listen to loopback http://localhost:8080 for 30 seconds
 
