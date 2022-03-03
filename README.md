@@ -28,4 +28,4 @@ tcp-listener -p 9090 -t 90 -a
  -a : accept connection from any address (default=loopback only)
 ```
 
-From 4D you can pass the ``-`` option and the resonse HTTP (header and body)  in ``StdIn``. The request HTTP (header and body) will be returned ``stdOut``.
+From 4D you can pass the ``-`` option and the response HTTP (header and body)  in ``StdIn``. The request HTTP (header and body) will be returned ``stdOut``.
